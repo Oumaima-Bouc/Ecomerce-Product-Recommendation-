@@ -1,4 +1,3 @@
-# Ecomerce-Product-Recommendation-
 # 🛍️ E-commerce Product Recommendation System
 
 A machine learning project designed to recommend relevant products to users based on their preferences, interests, and interactions. The goal is to improve the online shopping experience by helping customers discover products that match their needs.
